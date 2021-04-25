@@ -1,0 +1,13 @@
+# Ignore Gradle
+/.gradle
+/gradle
+/build
+/gradlew*
+
+# vs code
+
+/.vscode
+/bin
+/.project
+/.classpath
+/.settings
